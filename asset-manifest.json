@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/banking-app-spark/static/css/main.b59a5fb0.css",
+    "main.js": "/banking-app-spark/static/js/main.818a1d24.js",
+    "static/media/instagram.png": "/banking-app-spark/static/media/instagram.e4beaa9c8cb1f97d8e8c.png",
+    "static/media/facebook.png": "/banking-app-spark/static/media/facebook.e2eac59011df5b5fb5dc.png",
+    "static/media/home_image.jpg": "/banking-app-spark/static/media/home_image.93a525f6de799b8053f7.jpg",
+    "static/media/spark_png.png": "/banking-app-spark/static/media/spark_png.b0f18ebed4a5dabb0545.png",
+    "static/media/twitter.png": "/banking-app-spark/static/media/twitter.4f63cb06a3bae8af73e6.png",
+    "static/media/customers.png": "/banking-app-spark/static/media/customers.b332973adfd665bcf098.png",
+    "static/media/transfer.png": "/banking-app-spark/static/media/transfer.c6770ed841440c98535b.png",
+    "static/media/transactions.png": "/banking-app-spark/static/media/transactions.c9d3b6f9897820402a3c.png",
+    "index.html": "/banking-app-spark/index.html",
+    "main.b59a5fb0.css.map": "/banking-app-spark/static/css/main.b59a5fb0.css.map",
+    "main.818a1d24.js.map": "/banking-app-spark/static/js/main.818a1d24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b59a5fb0.css",
+    "static/js/main.818a1d24.js"
+  ]
+}
